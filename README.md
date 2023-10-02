@@ -25,7 +25,7 @@ I live in Madrid and I'm a first year computer science student. I like going to 
 
 ### What I work with
 
-<div style="display-flex">
+<div style="display: flex; width:100%; justify-content: space-evenly;">
   <img src="assets/javascript-plain.svg" alt="JavaScript Icon" height="35" width="35">
   <img src="assets/python-original.svg" alt="Python Icon" height="35" width="35">
   <img src="assets/html5-original.svg" alt="HTML5 Icon" height="35" width="35">
