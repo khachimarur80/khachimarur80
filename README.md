@@ -50,7 +50,7 @@ I live in Madrid and I'm a first year computer science student. I like going to 
 
 ![Kei's GitHub stats](https://github-readme-stats.vercel.app/api?username=khachimarur80&show_icons=true&theme=vue-dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khachimarur80&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=468)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khachimarur80&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=468)](https://git.io/streak-stats)
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=khachimarur80&layout=compact&theme=vue-dark)
 
