@@ -25,15 +25,16 @@ I live in Madrid and I'm a first year computer science student. I like going to 
 
 ### What I work with
 
-<img src="assets/javascript-plain.svg" alt="JavaScript Icon" height="50" width="50">
-<img src="assets/python-original.svg" alt="Python Icon" height="50" width="50">
-<img src="assets/html5-original.svg" alt="HTML5 Icon" height="50" width="50">
-<img src="assets/css3-original.svg" alt="CSS3 Icon" height="50" width="50">
-<img src="assets/vuejs-original.svg" alt="Vue Icon" height="50" width="50">
-<img src="assets/electron-original.svg" alt="Electron Icon" height="50" width="50">
-<img src="assets/vuetify-original.svg" alt="Vuetify Icon" height="50" width="50">
-<img src="assets/django-plain.svg" alt="Django Icon" height="50" width="50">
-
+<div style="display-flex">
+  <img src="assets/javascript-plain.svg" alt="JavaScript Icon" height="35" width="35">
+  <img src="assets/python-original.svg" alt="Python Icon" height="35" width="35">
+  <img src="assets/html5-original.svg" alt="HTML5 Icon" height="35" width="35">
+  <img src="assets/css3-original.svg" alt="CSS3 Icon" height="35" width="35">
+  <img src="assets/vuejs-original.svg" alt="Vue Icon" height="35" width="35">
+  <img src="assets/electron-original.svg" alt="Electron Icon" height="35" width="35">
+  <img src="assets/vuetify-original.svg" alt="Vuetify Icon" height="35" width="35">
+  <img src="assets/django-plain.svg" alt="Django Icon" height="35" width="35">
+</div>
 
 ### I'm currently Learning
 
