@@ -25,7 +25,7 @@ I live in Madrid and I'm a first year computer science student. I like going to 
 
 ## What I work with
 
-<div style="display: flex; width:100%; justify-content: space-evenly;">
+<div style="display: flex; width:100h; justify-content: space-evenly;">
   <img src="assets/javascript-plain.svg" alt="JavaScript Icon" height="35" width="35">
   <img src="assets/python-original.svg" alt="Python Icon" height="35" width="35">
   <img src="assets/html5-original.svg" alt="HTML5 Icon" height="35" width="35">
@@ -47,12 +47,12 @@ I live in Madrid and I'm a first year computer science student. I like going to 
 
 
 ## More Info
+<div style="display: flex; width:100h; justify-content: space-evenly;">
+  ![Kei's GitHub stats](https://github-readme-stats.vercel.app/api?username=khachimarur80&show_icons=true&theme=vue-dark)
 
-![Kei's GitHub stats](https://github-readme-stats.vercel.app/api?username=khachimarur80&show_icons=true&theme=vue-dark)
+  ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=khachimarur80&layout=compact&theme=vue-dark)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=khachimarur80&layout=compact&theme=vue-dark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khachimarur80&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=468)](https://git.io/streak-stats)
-
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khachimarur80&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=468)](https://git.io/streak-stats)
+</div>
 
 
