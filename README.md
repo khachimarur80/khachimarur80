@@ -1,9 +1,9 @@
 
-## Hey, I'm Kei
+# Hey, I'm Kei
 ---
 I live in Madrid and I'm a first year computer science student. I like going to the gym, playing the violin and, of course, coding!
 
-### Get in Touch
+## Get in Touch
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -23,7 +23,7 @@ I live in Madrid and I'm a first year computer science student. I like going to 
   </a>
 </div>
 
-### What I work with
+## What I work with
 
 <div style="display: flex; width:100%; justify-content: space-evenly;">
   <img src="assets/javascript-plain.svg" alt="JavaScript Icon" height="35" width="35">
@@ -36,17 +36,17 @@ I live in Madrid and I'm a first year computer science student. I like going to 
   <img src="assets/django-plain.svg" alt="Django Icon" height="35" width="35">
 </div>
 
-### I'm currently Learning
+## I'm currently Learning
 
 
-### My Favourite Project Repos
+## My Favourite Project Repos
 
 - [Diamond](https://github.com/khachimarur80/MindMap) - An obsidian like texteditor
 - [Luhmann](https://github.com/khachimarur80/Luhmann) - Knowledge sharing platform
 - [Kestoik](https://github.com/khachimarur80/Kestoik) - Life tracker
 
 
-### More Info
+## More Info
 
 ![Kei's GitHub stats](https://github-readme-stats.vercel.app/api?username=khachimarur80&show_icons=true&theme=vue-dark)
 
