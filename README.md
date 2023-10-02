@@ -25,14 +25,14 @@ I live in Madrid and I'm a first year computer science student. I like going to 
 
 ### What I work with
 
-<img src="assets/javascript-plain.svg" alt="JavaScript Icon">
-<img src="assets/python-original.svg" alt="Python Icon">
-<img src="assets/html5-original.svg" alt="HTML5 Icon">
-<img src="assets/css3-original.svg" alt="CSS3 Icon">
-<img src="assets/vuejs-original.svg" alt="Vue Icon">
-<img src="assets/electron-original.svg" alt="Electron Icon">
-<img src="assets/vuetify-original.svg" alt="Vuetify Icon">
-<img src="assets/django-plain.svg" alt="Django Icon">
+<img src="assets/javascript-plain.svg" alt="JavaScript Icon" height="50" width="50">
+<img src="assets/python-original.svg" alt="Python Icon" height="50" width="50">
+<img src="assets/html5-original.svg" alt="HTML5 Icon" height="50" width="50">
+<img src="assets/css3-original.svg" alt="CSS3 Icon" height="50" width="50">
+<img src="assets/vuejs-original.svg" alt="Vue Icon" height="50" width="50">
+<img src="assets/electron-original.svg" alt="Electron Icon" height="50" width="50">
+<img src="assets/vuetify-original.svg" alt="Vuetify Icon" height="50" width="50">
+<img src="assets/django-plain.svg" alt="Django Icon" height="50" width="50">
 
 
 ### I'm currently Learning
