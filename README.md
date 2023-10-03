@@ -21,16 +21,20 @@ I live in Madrid and I'm a first year computer science student. I like going to 
 
 <div>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="assets/javascript-plain.svg" alt="JavaScript Icon" height="35" width="35"></a>
-  <a href="https://www.python.org"><img src="assets/python-original.svg" alt="Python Icon" height="35" width="35"></a>
-  <a href="https://developer.mozilla.org/docs/Web/html"><img src="assets/html5-original.svg" alt="HTML5 Icon" height="35" width="35"></a>
-  <a href="developer.mozilla.org/docs/Web/CSS"><img src="assets/css3-original.svg" alt="CSS3 Icon" height="35" width="35"></a>
-  <a href="https://vuejs.org"><img src="assets/vuejs-original.svg" alt="Vue Icon" height="35" width="35"></a>
-  <a href="https://www.electronjs.org"><img src="assets/electron-original.svg" alt="Electron Icon" height="35" width="35"></a>
-  <a href="https://vuetifyjs.com"><img src="assets/vuetify-original.svg" alt="Vuetify Icon" height="35" width="35"></a>
-  <a href="https://www.djangoproject.com"><img src="assets/django-plain.svg" alt="Django Icon" height="35" width="35"></a>
+  <a href="https://www.python.org" target="_blank"><img src="assets/python-original.svg" alt="Python Icon" height="35" width="35"></a>
+  <a href="https://developer.mozilla.org/docs/Web/html" target="_blank"><img src="assets/html5-original.svg" alt="HTML5 Icon" height="35" width="35"></a>
+  <a href="developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="assets/css3-original.svg" alt="CSS3 Icon" height="35" width="35"></a>
+  <a href="https://vuejs.org" target="_blank"><img src="assets/vuejs-original.svg" alt="Vue Icon" height="35" width="35"></a>
+  <a href="https://www.electronjs.org" target="_blank"><img src="assets/electron-original.svg" alt="Electron Icon" height="35" width="35"></a>
+  <a href="https://vuetifyjs.com" target="_blank"><img src="assets/vuetify-original.svg" alt="Vuetify Icon" height="35" width="35"></a>
+  <a href="https://www.djangoproject.com" target="_blank"><img src="assets/django-plain.svg" alt="Django Icon" height="35" width="35"></a>
+  <a href="https://nodejs.org" target="_blank"><img src="assets/nodejs-original.svg" alt="Node Icon" height="35" width="35"></a>
+ 
 </div>
 
-<!--## I'm currently Learning-->
+## I'm currently Learning
+
+<a href="https://expressjs.com" target="_blank"><img src="assets/express-original.svg" alt="Express Icon" height="35" width="35"></a>
 
 ## My Favourite Project Repos
 
