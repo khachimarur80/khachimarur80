@@ -38,9 +38,9 @@ I live in Madrid and I'm a first year computer science student. I like going to 
 
 ## My Favourite Project Repos
 
-- [Diamond](https://github.com/khachimarur80/MindMap) - An obsidian like texteditor
-- [Luhmann](https://github.com/khachimarur80/Luhmann) - Knowledge sharing platform
-- [Kestoik](https://github.com/khachimarur80/Kestoik) - Life tracker
+- <a href="https://github.com/khachimarur80/MindMap" target="_blank">Diamond</a> - An obsidian like texteditor
+- <a href="https://github.com/khachimarur80/Luhmann" target="_blank">Luhmann</a> - Knowledge sharing platform
+- <a href="https://github.com/khachimarur80/Kestoik" target="_blank">Kestoik</a> - Life tracker
 
 
 ## More Info
