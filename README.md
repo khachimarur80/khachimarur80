@@ -12,7 +12,7 @@ I live in Madrid and I'm a first year computer science student. I like going to 
   <a href="mailto:khachimarur80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-   <a href="https://khachimarur80.github.io/portofolio/">
+   <a href="https://khachimarur80.github.io/portofolio" target="_blank">
     <img src="https://img.shields.io/badge/Portofolio-white?style=for-the-badge&logo=github&logoColor=black" alt="Portofolio Badge"/>
   </a>
 </div>
