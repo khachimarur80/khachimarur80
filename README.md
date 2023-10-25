@@ -6,9 +6,9 @@ I live in Madrid and I'm a first year computer science student. I like going to 
 ## Get in Touch
 
 <div id="badges">
-  <!--<a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/kei-rodríguez-hachimaru-849317296/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>-->
+  </a>
   <a href="mailto:khachimarur80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
