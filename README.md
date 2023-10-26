@@ -40,7 +40,7 @@ I live in Madrid and I'm a first year computer science student. I like going to 
 
 - <a href="https://github.com/khachimarur80/MindMap" target="_blank">Diamond</a> - An obsidian like texteditor
 - <a href="https://github.com/khachimarur80/Luhmann" target="_blank">Luhmann</a> - Knowledge sharing platform
-- <a href="https://github.com/khachimarur80/Kestoik" target="_blank">Kestoik</a> - Life tracker
+- <a href="https://github.com/khachimarur80/koding" target="_blank">Kodev</a> - A FreeCodeCamp like page
 
 
 ## More Info
